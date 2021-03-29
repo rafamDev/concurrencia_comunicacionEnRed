@@ -1,0 +1,4 @@
+client\Client.class
+client\MainClient.class
+server\Server.class
+server\ServerThread.class
